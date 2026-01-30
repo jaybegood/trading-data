@@ -1,0 +1,267 @@
+Ticker,Order Type,Price Move,Price Move(Actual),Limit,Stop,OrderShares,BoughtShares,SoldShares,BuyTarget,BuyTargetIndicator,BuyPrice,orderPricePct,SellPrice,Profit,Date,OrderTime,BuyTime,SellTime,Fill(m),Hold(m),PassedStop,PrematureReversalBailOut,NumOfIndicators,Indicators,Result
+MSFT,Short,5 Min,1.0,456.56,457.56,10,0,0,457.31,Q|Y|M|M|M|W|W,0,34,0,0,2026-01-29,08:42:00,,,,,False,446.83574999999996,7,"D s4, W pp1, M s2, Y pp1, Y|M|M|M|W|W|D, Q|Y|M|M|M|W|W, Y|M|M",Cancelled(Order Timed)
+VMAR,Long,5 Min,1.0,4.0,3.0,1538,0,0,3.25,W|D,0,53,0,0,2026-01-29,09:03:00,,,,,False,3.8802250000000003,6,"pdl, D s1, D s2, W s4, pdl|D, W|D",Cancelled(Order Timed)
+WDAY,Long,40 Min,6.0,175.87,174.87,28,28.0,0,175.12,W|W,174.54,60,0,0,2026-01-29,09:30:00,09:32:49,,2.82,,False,178.3275,1,W|W,Sold(Limit)
+SNOW,Long,5 Min,1.0,200.77,199.77,24,24.0,0,200.02,Q|Y|M|W|W|W|D,200.0,64,0,0,2026-01-29,09:31:00,09:33:24,,2.41,,False,202.565025,6,"D s4, W s2, M s1, Q|Y|M|W|W|W|D, Q|Y|M|W|W, Q|Y|M",Sold(Limit)
+FIGR,Long,5 Min,3.0,65.19,64.19,77,77.0,0,64.44,Q|M|D,63.96,72,0,0,2026-01-29,09:31:00,09:33:27,,2.45,,False,66.21375,2,"D s1, Q|M|D",Sold(Stop)
+MSTR,Long,40 Min,13.0,153.97,152.97,32,32.0,0,153.22,W|W|D|D,152.87,78,0,0,2026-01-29,09:31:00,09:33:28,,2.47,,False,154.660075,3,"D s2, W|W|D|D, W|W|D",Sold(Stop)
+HYMC,Long,5 Min,1.98,51.62,50.62,98,98.0,0,50.87,M r3,50.86,77,0,0,2026-01-29,09:32:00,09:34:49,,2.83,,False,51.97625,1,M r3,Sold(Stop)
+NOW,Short,40 Min,9.0,122.14,123.14,40,0,0,122.89,Q|M|W|W|D|D,0,63,0,0,2026-01-29,09:04:00,,,,,False,116.41612500000001,3,"D s3, Q|M|W|W|D|D, Q|M",Cancelled(Order Timed)
+BX,Long,5 Min,2.0,144.54,143.54,34,34.0,0,143.79,M|W|W|D|D|D,143.71,76,0,0,2026-01-29,09:32:00,09:34:21,,2.36,,False,145.52634999999998,3,"D s2, M|W|W|D|D|D, M|W|W|D|D|D",Sold(Stop)
+PLTR,Long,40 Min,11.0,155.22,154.22,32,32.0,0,154.47,W|W,154.11,61,0,0,2026-01-29,09:30:00,09:34:03,,4.07,,False,156.87945,2,"D s1, W|W",Sold(Stop)
+TWLO,Long,5 Min,2.0,128.71,127.71,39,39.0,0,127.96,Q|M|W|D,127.9,73,0,0,2026-01-29,09:32:00,09:35:43,,3.72,,False,129.4075,1,Q|M|W|D,Sold(Stop)
+WHR,Long,5 Min,3.0,73.86,72.86,68,68.0,0,73.11,Q pp1,72.89,69,0,0,2026-01-29,09:31:00,09:34:22,,3.38,,False,74.4725,2,"D s4, Q pp1",Sold(Limit)
+FSLR,Long,5 Min,0.0,223.09,222.09,22,22.0,0,222.34,Q|Y|M|W|W,221.43,63,0,0,2026-01-29,09:30:00,09:36:03,,6.06,,False,226.70875,5,"W s3, Q s1, Q|Y|W|W|W|D, Q|Y|M|W|W, Q|Y",Sold(Limit)
+CLS,Long,5 Min,2.0,319.14,318.14,15,15.0,0,318.39,W|D|D,317.53,26,0,0,2026-01-29,09:30:00,09:36:04,,6.07,,False,331.01125,3,"D s2, W r1, W|D|D",Sold(Stop)
+COIN,Long,5 Min,3.0,204.09,203.09,24,24.0,0,203.34,W s2,203.32,63,0,0,2026-01-29,09:33:00,09:37:03,,4.06,,False,205.10125,2,"D s2, W s2",Sold(Limit)
+CVNA,Short,40 Min,5.0,439.4,440.4,11,11.0,0,440.15,W s1,440.47,30,0,0,2026-01-29,09:30:00,09:39:05,,9.09,,False,427.6975,1,W s1,Sold(Limit)
+SCCO,Short,5 Min,3.0,217.19,218.19,22,22.0,0,217.94,W|D,218.07,57,0,0,2026-01-29,09:33:00,09:40:04,,7.08,,False,211.36500000000004,2,"D r4, W|D",Sold(Limit)
+RCL,Short,5 Min,0.0,335.08,336.08,14,14.0,0,335.83,M r2,335.92,38,0,0,2026-01-29,09:33:00,09:40:07,,7.13,,False,316.815,1,M r2,Sold(Stop)
+NOW,Long,40 Min,10.0,117.33,116.33,42,42.0,0,116.58,W s3,116.57,71,0,0,2026-01-29,09:36:00,09:41:11,,5.18,,False,118.6109,1,W s3,Sold(Stop)
+CLS,Long,40 Min,5.0,309.24,308.24,16,0,0,308.49,M|D,0,23,0,0,2026-01-29,09:38:00,,,,,False,320.9275,2,"D s3, M|D",Order Rejected
+CRWD,Long,5 Min,0.0,442.05,441.05,11,0,0,441.3,Q|Y|M|M|W|W|W|D|D,0,20,0,0,2026-01-29,09:30:00,,,,,False,456.99,11,"D s3, D s4, W pp1, W s1, Y pp1, Q|Y|M|M|W|W|W|D|D, Q|Y|M|M|W|W|W|D, Q|Y|M|W|W|W, Q|Y|M|M|W|W, Y|M, Q|Y",Order Rejected
+CRM,Long,5 Min,2.0,213.17,212.17,23,23.0,0,212.42,M|W|W,212.26,51,0,0,2026-01-29,09:30:00,09:41:17,,11.3,,False,215.23125000000002,1,M|W|W,Sold(Stop)
+WDAY,Long,5 Min,4.0,174.05,173.05,28,28.0,0,173.3,W s3,173.0,66,0,0,2026-01-29,09:34:00,09:42:18,,8.3,,False,176.1875,1,W s3,Sold(Stop)
+MSFT,Long,5 Min,1.0,426.91,425.91,11,0,0,426.16,W s2,0,19,0,0,2026-01-29,09:27:00,,,,,False,443.9825,1,W s2,Cancelled(Order Timed)
+PANW,Long,40 Min,10.0,178.88,177.88,28,28.0,0,178.13,Y|M|M|W|W|W|D,177.95,65,0,0,2026-01-29,09:36:00,09:42:43,,6.72,,False,180.4275,2,"D s4, Y|M|M|W|W|W|D",Sold(Stop)
+MOD,Short,40 Min,6.0,177.96,178.96,27,0,0,178.71,Y r1,0,70,0,0,2026-01-29,09:42:00,,,,,False,165.47249999999997,2,"W r4, Y r1",Order Rejected
+SNOW,Long,40 Min,5.0,199.83,198.83,25,25.0,0,199.08,Q|Y|M|W|W,199.04,71,0,0,2026-01-29,09:35:00,09:42:27,,7.45,,False,201.777525,1,Q|Y|M|W|W,Sold(Stop)
+RBRK,Long,5 Min,4.0,60.29,59.29,83,83.0,0,59.54,W|W|D|D,59.5,76,0,0,2026-01-29,09:34:00,09:43:33,,9.55,,False,60.6975,3,"D s3, W s3, W|W|D|D",Sold(Stop)
+ORCL,Long,5 Min,4.0,166.35,165.35,30,0,0,165.6,W|W|D,0,59,0,0,2026-01-29,09:34:00,,,,,False,168.11625,2,"D s2, W|W|D",Order Rejected
+NOW,Long,40 Min,15.0,115.41,114.41,43,0,0,114.66,Y|W,0,79,0,0,2026-01-29,09:43:00,,,,,False,116.8,1,Y|W,Order Rejected
+RDDT,Long,5 Min,2.0,195.67,194.67,25,25.0,0,194.92,Y|M|W|pdo|pdc|pdh|pdl|D|D|D,194.76,47,0,0,2026-01-29,09:33:00,09:45:01,,12.03,,False,198.1,5,"pdo, M s2, Y|M|W|pdo|pdc|pdh|pdl|D|D|D, Y|M|W|W|D|D|D, Y|M",Sold(Stop)
+FIGR,Long,5 Min,4.0,63.04,62.04,80,80.0,0,62.29,M|pdl|D|D,62.25,79,0,0,2026-01-29,09:35:00,09:44:51,,9.86,,False,63.405525000000004,2,"pdl, M|pdl|D|D",Sold(Stop)
+SNDK,Long,5 Min,0.0,515.72,514.72,9,0,0,514.97,W|D|D,0,24,0,0,2026-01-29,09:30:00,,,,,False,532.22,4,"D pp1, W r1, W|D|D, W|D",Cancelled(Order Timed)
+CVNA,Long,5 Min,1.0,428.9,427.9,11,0,0,428.15,M pp1,0,29,0,0,2026-01-29,09:44:00,,,,,False,437.8975,2,"D pp1, M pp1",Order Rejected
+WPM,Long,5 Min,3.0,154.78,153.78,32,0,0,154.03,M|W|W|D|D|D,0,51,0,0,2026-01-29,09:30:00,,,,,False,157.54,4,"D pp1, M r4, M|W|W|D|D|D, M|W",Cancelled(Order Timed)
+WDC,Long,5 Min,0.0,275.1,274.1,18,0,0,274.35,Q|W|D|D,0,54,0,0,2026-01-29,09:30:00,,,,,False,281.4425,2,"D pp1, Q|W|D|D",Cancelled(Order Timed)
+TXN,Short,5 Min,2.0,222.32,223.32,22,0,0,223.07,Q|D,0,45,0,0,2026-01-29,09:30:00,,,,,False,214.40500000000003,3,"D r1, Q r3, Q|D",Cancelled(Order Timed)
+GOOGL,Long,40 Min,7.0,333.84,332.84,15,0,0,333.09,M|M|W|W|W|pdl|D|D|D|D|D|D|D,0,35,0,0,2026-01-29,09:32:00,,,,,False,338.93,11,"pdl, D s1, D s2, D s3, W pp1, M r1, M|M|W|W|W|pdl|D|D|D|D|D|D|D, M|M|W|W|W|D|D|D|D|D|D, M|M|W|W|W|D|D|D, M|M|W|W|W|D|D, M|M|W|W|W",Order Rejected
+LUV,Short,40 Min,8.0,45.31,46.31,108,108.0,0,46.06,Q|M|W|W,46.06,76,0,0,2026-01-29,09:39:00,09:42:11,,3.19,,False,41.762499999999996,4,"W r4, Q r1, Q|M|W|W, Q|W",Sold(Limit)
+HXL,Long,5 Min,3.0,84.78,83.78,59,0,0,84.03,Q|M|M|W|W|W|W|D|D,0,74,0,0,2026-01-29,09:43:00,,,,,False,85.3575,6,"D r2, D r3, W pp1, Q|M|W|W|W|D|D|D, Q|M|M|W|W|W|W|D|D, Q|M|W|W|W",Order Rejected
+APP,Short,5 Min,0.0,568.14,569.14,8,0,0,568.89,W|D|D,0,55,0,0,2026-01-29,09:30:00,,,,,False,543.6274999999999,3,"D r3, W|D|D, W|D|D",Cancelled(Order Timed)
+HON,Short,5 Min,4.0,227.61,228.61,21,0,0,228.36,Y|M|W|W|W|D,0,48,0,0,2026-01-29,09:30:00,,,,,False,219.01749999999998,3,"D r4, Y|M|W|W|W|D, Y|M|W|W",Cancelled(Order Timed)
+INTU,Long,5 Min,0.0,491.78,490.78,10,0,0,491.03,W s3,0,25,0,0,2026-01-29,09:30:00,,,,,False,508.5225,1,W s3,Cancelled(Order Timed)
+MU,Long,5 Min,0.0,423.47,422.47,11,0,0,422.72,M|W|pdo|pdc|pdl|D|D|D,0,33,0,0,2026-01-29,09:30:00,,,,,False,435.33,9,"pdo, pdl, D s1, W r1, M r4, M|W|pdo|pdc|pdl|D|D|D, M|W|pdl|D|D|D, M|W|D|D, M|W",Cancelled(Order Timed)
+NDAQ,Short,5 Min,0.0,101.03,102.03,49,0,0,101.78,Q|M|W|W|W|W|W|D,0,59,0,0,2026-01-29,09:30:00,,,,,False,96.36605,6,"D r3, D r4, W r2, Q|M|W|W|W|W|D|D, Q|M|W|W|W|W|W|D, Q|M|W|W|W|W",Cancelled(Order Timed)
+AVGO,Short,5 Min,3.0,337.94,338.94,14,0,0,338.69,W|pdo|pdc|pdh|D|D|D,0,52,0,0,2026-01-29,09:30:00,,,,,False,327.329075,8,"pdo, pdh, D r1, D r2, W r1, W|pdo|pdc|pdh|D|D|D, W|pdh|D|D|D, W|D|D",Cancelled(Order Timed)
+AMD,Short,5 Min,0.0,264.39,265.39,18,0,0,265.14,Q|M|M|D|D,0,34,0,0,2026-01-29,09:30:00,,,,,False,252.23242499999998,6,"D r3, D r4, Q r1, Q|M|D|D|D, Q|M|M|D|D, Q|M",Cancelled(Order Timed)
+HYMC,Long,40 Min,7.0,50.29,49.29,101,101.0,0,49.54,M|pdl|D,49.5,74,0,0,2026-01-29,09:37:00,09:46:00,,9.01,,False,51.0325,2,"pdl, M|pdl|D",Sold(Stop)
+LITE,Long,5 Min,3.0,377.4,376.4,13,0,0,376.65,W|pdo|pdc|pdl|D|D|D,0,21,0,0,2026-01-29,09:30:00,,,,,False,385.325,7,"pdo, pdl, D s1, W r1, W|pdo|pdc|pdl|D|D|D, W|pdl|D|D|D, W|D|D",Cancelled(Order Timed)
+TT,Long,5 Min,1.0,404.19,403.19,12,0,0,403.44,Q|M|M|W|W|W|W|pdh|D|D|D,0,37,0,0,2026-01-29,09:31:00,,,,,False,411.07500000000005,12,"pdc, pdh, D pp1, D r1, W r1, M pp1, Y|M|W|W|W|pdc|pdh|pdl|D|D|D, Q|M|M|W|W|W|W|pdh|D|D|D, Y|M|W|W|W|D|D|D, Q|M|M|W|W|W|W|D|D, Q|Y|M|W|W, Q|Y|M",Cancelled(Order Timed)
+LVS,Long,40 Min,26.0,55.16,54.16,91,91.0,0,54.41,Y|M|W,54.38,71,0,0,2026-01-29,09:33:00,09:46:50,,13.84,,False,55.942499999999995,3,"M s4, Y|M|W, Y|M",Sold(Stop)
+CHRW,Long,5 Min,1.0,192.93,191.93,25,25.0,0,192.18,Q|Y|M|W|W|D,192.17,45,0,0,2026-01-29,09:34:00,09:46:43,,12.72,,False,196.0925,7,"D r4, W r4, M r4, Q|Y|M|W|W|D, Q|Y|M|W, Q|Y|M, Q|Y",Sold(Stop)
+MA,Short,5 Min,0.98,551.94,552.94,9,0,0,552.69,Q|Q|Y|M|M|W|W,0,17,0,0,2026-01-29,09:31:00,,,,,False,531.8725,10,"W r2, W r3, M s1, Y pp1, Q|Q|Y|M|W|W|W, Q|Q|Y|M|M|W|W, Q|Y|M|M|W, Q|Y|M|M, Q|Q|Y|M, Q|Y",Cancelled(Order Timed)
+DUOL,Long,5 Min,1.0,136.52,135.52,36,0,0,135.77,W|D|D,0,57,0,0,2026-01-29,09:31:00,,,,,False,138.2075,1,W|D|D,Cancelled(Order Timed)
+ETN,Short,5 Min,0.98,361.31,362.31,13,0,0,362.06,Q|M|W|W|W|D|D,0,41,0,0,2026-01-29,09:31:00,,,,,False,351.9275,8,"D r4, W r4, M r2, Q r1, Q|M|W|W|W|D|D, Q|M|W|W|D, Q|M|W, Q|M",Cancelled(Order Timed)
+DELL,Short,5 Min,3.0,118.32,119.32,41,0,0,119.07,Y|M|W|W|D|D,0,75,0,0,2026-01-29,09:31:00,,,,,False,113.91749999999999,7,"D r1, W r1, M s1, Y pp1, Y|M|W|W|D|D, Y|M|W, Y|M",Cancelled(Order Timed)
+NET,Long,5 Min,1.0,177.31,176.31,28,0,0,176.56,M|W,0,47,0,0,2026-01-29,09:31:00,,,,,False,180.2375,3,"D s1, M s2, M|W",Cancelled(Order Timed)
+BE,Long,5 Min,0.98,160.94,159.94,31,0,0,160.19,M|W|D|D,0,64,0,0,2026-01-29,09:31:00,,,,,False,162.11125,1,M|W|D|D,Order Cancelled
+VRT,Short,5 Min,0.98,199.94,200.94,24,0,0,200.69,W r2,0,50,0,0,2026-01-29,09:31:00,,,,,False,193.56135,1,W r2,Cancelled(Order Timed)
+JPM,Short,5 Min,2.0,307.74,308.74,16,0,0,308.49,Q|Q|M|M|W|W|W|D,0,41,0,0,2026-01-29,09:32:00,,,,,False,299.9825,6,"D r4, W r2, Q pp1, Q|Q|M|M|W|W|W|D, Q|Q|M|M|W|W, Q|M",Cancelled(Order Timed)
+LRCX,Short,5 Min,2.0,251.42,252.42,19,0,0,252.17,Q|W|W|D|D,0,55,0,0,2026-01-29,09:32:00,,,,,False,243.43124999999998,1,Q|W|W|D|D,Cancelled(Order Timed)
+CRDO,Short,5 Min,2.0,135.31,136.31,36,0,0,136.06,D|D,0,61,0,0,2026-01-29,09:32:00,,,,,False,130.29500000000002,1,D|D,Cancelled(Order Timed)
+AMP,Long,5 Min,1.0,508.99,507.99,9,0,0,508.24,Q|Y|M|W|W|W|D|D|D|D,0,26,0,0,2026-01-29,09:32:00,,,,,False,526.39,9,"D r2, D r3, D r4, W r1, M r1, Q|Y|M|W|W|W|D|D|D|D, Q|M|W|W|W|D|D|D, Q|M|W|W|W|W|D, Q|M|W|W",Cancelled(Order Timed)
+LBRT,Short,5 Min,2.0,25.67,26.67,189,0,0,26.42,Q r2,0,70,0,0,2026-01-29,09:33:00,,,,,False,22.9225,1,Q r2,Cancelled(Order Timed)
+TSLA,Long,5 Min,0.0,425.21,424.21,11,0,0,424.46,M|W|W|D|D|D,0,46,0,0,2026-01-29,09:33:00,,,,,False,432.6125,9,"D s2, D s3, D s4, W s1, M s1, M|W|W|D|D|D, M|W|D|D, M|W|W|D, M|W",Cancelled(Order Timed)
+COHR,Long,5 Min,0.0,216.52,215.52,23,0,0,215.77,Q|W|pdo|pdc|pdl|D|D,0,69,0,0,2026-01-29,09:34:00,,,,,False,217.6175,3,"pdo, D s1, Q|W|pdo|pdc|pdl|D|D",Order Cancelled
+INOD,Short,5 Min,3.0,63.56,64.56,77,77.0,0,64.31,Q|W|D,64.4,70,0,0,2026-01-29,09:47:00,09:50:20,,3.34,,False,59.5925,5,"D r2, W r1, Q pp1, Q|W|D, Q|W",Sold(Limit)
+VLO,Short,5 Min,2.0,193.87,194.87,25,0,0,194.62,Q|Y|M|W|W|W|D,0,59,0,0,2026-01-29,09:35:00,,,,,False,187.95250000000001,2,"Q|Y|M|W|W|W|D, Q|Y|M|W|W",Order Cancelled
+MOD,Short,40 Min,8.0,179.77,180.77,27,27.0,0,180.52,Y|M|W,180.75,76,0,0,2026-01-29,09:44:00,09:50:42,,6.71,,False,164.01749999999998,2,"W r4, Y|M|W",Sold(Limit)
+NBIS,Long,5 Min,3.0,95.22,94.22,52,0,0,94.47,W|D|D,0,52,0,0,2026-01-29,09:36:00,,,,,False,96.9827,1,W|D|D,Cancelled(Order Timed)
+RDDT,Long,40 Min,16.0,194.32,193.32,25,25.0,0,193.57,Q|Y|M|W|W|pdc|pdh|pdl|D|D|D,193.57,78,0,0,2026-01-29,09:47:00,09:51:24,,4.41,,False,196.1575,3,"pdc, D pp1, Q|Y|M|W|W|pdc|pdh|pdl|D|D|D",Sold(Stop)
+SEIC,Short,5 Min,1.0,91.39,92.39,54,0,0,92.14,Q|M|M|W,0,66,0,0,2026-01-29,09:36:00,,,,,False,86.92500000000001,3,"W r4, Q r2, Q|M|M|W",Cancelled(Order Timed)
+PLTR,Long,5 Min,4.0,151.61,150.61,33,0,0,150.86,Q|Y|W|W|D|D,0,71,0,0,2026-01-29,09:36:00,,,,,False,152.925,3,"Y pp1, Q|Y|W|W|D|D, Q|Y|W",Order Cancelled
+CRCL,Long,40 Min,21.0,69.32,68.32,72,72.0,0,68.57,W|D,68.57,81,0,0,2026-01-29,09:41:00,09:51:09,,10.16,,False,69.64625,2,"W s1, W|D",Sold(Stop)
+TEAM,Short,5 Min,2.0,120.98,121.98,41,0,0,121.73,Q|M|W,0,63,0,0,2026-01-29,09:37:00,,,,,False,116.47875,4,"M s4, Q s2, Q|M|W, Q|M",Cancelled(Order Timed)
+APH,Long,5 Min,4.0,145.81,144.81,34,0,0,145.06,Q|M|W|W,0,76,0,0,2026-01-29,09:37:00,,,,,False,146.3075,3,"M r1, Q|M|W|W, Q|M|W",Cancelled(Order Timed)
+FSLR,Short,5 Min,2.0,228.69,229.69,21,0,0,229.44,M s2,0,50,0,0,2026-01-29,09:38:00,,,,,False,219.23250000000002,3,"D s3, W s2, M s2",Cancelled(Order Timed)
+CHRW,Long,40 Min,15.0,191.68,190.68,26,26.0,0,190.93,Q|Y|M|M|W|W,190.74,85,0,0,2026-01-29,09:48:00,09:53:06,,5.11,,False,193.535,4,"W r3, Y r1, Y|M|M|W|W|W|D|D|D, Q|Y|M|M|W|W",Sold(Stop)
+TSM,Short,5 Min,3.0,350.29,351.29,14,0,0,351.04,Q|M|W|W|W|D|D|D,0,20,0,0,2026-01-29,09:39:00,,,,,False,338.6725,7,"D r2, D r3, D r4, W r2, Q|M|W|W|W|D|D|D, Q|M|W|W|W|D|D, Q|M|W|W",Cancelled(Order Timed)
+CHRW,Long,40 Min,23.0,190.45,189.45,26,0,0,189.7,Y|M|M|W|W|W|D|D|D,0,89,0,0,2026-01-29,09:55:00,,,,,False,192.51999999999998,4,"D r2, W r3, Y|M|M|W|W|W|D|D|D, Y|M",Order Rejected
+AAOI,Long,40 Min,14.0,40.47,39.47,125,0,0,39.72,W|D,0,63,0,0,2026-01-29,09:40:00,,,,,False,41.807900000000004,3,"D s1, W r1, W|D",Order Rejected
+MOD,Short,40 Min,14.0,178.33,179.33,27,0,0,179.08,W r4,0,72,0,0,2026-01-29,09:52:00,,,,,False,168.505,1,W r4,Order Rejected
+FCX,Long,40 Min,38.0,66.91,65.91,75,0,0,66.16,W r3,0,74,0,0,2026-01-29,09:54:00,,,,,False,67.549575,2,"D r2, W r3",Order Rejected
+OKLO,Long,40 Min,5.98,89.22,88.22,56,0,0,88.47,M|W|D,0,67,0,0,2026-01-29,09:36:00,,,,,False,91.04,2,"D s1, M|W|D",Order Rejected
+MSTR,Long,40 Min,5.0,150.49,149.49,33,0,0,149.74,W s2,0,56,0,0,2026-01-29,09:35:00,,,,,False,153.290275,2,"D s2, W s2",Order Rejected
+ADBE,Long,5 Min,2.0,283.17,282.17,17,0,0,282.42,Q|Y|M|W|W,0,34,0,0,2026-01-29,09:42:00,,,,,False,287.74045,5,"W s2, W s3, M s3, Q|Y|M|W|W, Y|M",Cancelled(Order Timed)
+PANW,Long,5 Min,4.0,176.39,175.39,28,0,0,175.64,M|M|W|W,0,75,0,0,2026-01-29,09:44:00,,,,,False,177.15,1,M|M|W|W,Order Rejected
+RCL,Long,5 Min,1.0,328.29,327.29,15,0,0,327.54,Q|M|W,0,38,0,0,2026-01-29,09:42:00,,,,,False,333.8775,3,"W r4, Q r1, Q|M|W",Cancelled(Order Timed)
+FIG,Long,40 Min,30.0,27.84,26.84,183,0,0,27.09,W|D,0,75,0,0,2026-01-29,09:56:00,,,,,False,28.2075,3,"D s3, W s1, W|D",Order Rejected
+SHOP,Long,40 Min,32.0,139.83,138.83,35,0,0,139.08,Q|Y|M|W|pdo|pdc|pdh|pdl|D|D|D|D|D,0,63,0,0,2026-01-29,09:52:00,,,,,False,141.50625,8,"pdo, pdc, D pp1, Q|Y|M|W|pdo|pdc|pdh|pdl|D|D|D|D|D, Q|Y|M|W|pdc|pdh|pdl|D|D|D|D|D, Q|Y|M|W|pdh|pdl|D|D|D|D|D, Q|Y|M|W|D|D|D|D|D, Q|Y|M|W",Order Rejected
+SCCO,Long,40 Min,5.0,208.23,207.23,23,0,0,207.48,Q|Y|W|D|D,0,57,0,0,2026-01-29,09:55:00,,,,,False,211.278775,3,"D r2, W r3, Q|Y|W|D|D",Order Rejected
+CLS,Long,5 Min,2.0,300.75,299.75,16,0,0,300.0,Q|M|W|D,0,34,0,0,2026-01-29,09:43:00,,,,,False,307.42,6,"D s4, W pp1, Q pp1, Q|M|W|D, Q|M|W, Q|M",Cancelled(Order Timed)
+COIN,Long,40 Min,9.0,200.86,199.86,25,0,0,200.11,M|W|D|D,0,44,0,0,2026-01-29,09:39:00,,,,,False,204.50125,2,"D s2, M|W|D|D",Order Rejected
+BL,Long,5 Min,4.0,48.06,47.06,105,0,0,47.31,W s4,0,63,0,0,2026-01-29,09:43:00,,,,,False,48.66625,1,W s4,Cancelled(Order Timed)
+CRWD,Long,5 Min,2.0,433.62,432.62,11,0,0,432.87,Q|Y|M|W|W,0,25,0,0,2026-01-29,09:43:00,,,,,False,440.43875,4,"W s2, M s2, Q|Y|M|W|W, Q|M|W|W",Cancelled(Order Timed)
+NET,Long,40 Min,17.98,179.58,178.58,27,27.0,0,178.83,Y|M|W|W|D,178.6,68,0,0,2026-01-29,09:48:00,09:58:36,,10.6,,False,182.83749999999998,2,"Y|M|W|W|D, Y|M",Sold(Stop)
+RBRK,Long,40 Min,15.0,58.96,57.96,85,0,0,58.21,W|W|D,0,69,0,0,2026-01-29,09:45:00,,,,,False,59.730000000000004,2,"D s4, W|W|D",Order Rejected
+UUUU,Long,40 Min,35.0,24.93,23.93,203,0,0,24.18,Q|W|pdl,0,84,0,0,2026-01-29,09:59:00,,,,,False,25.041249999999998,6,"D s2, W pp1, Q r1, Q|W|pdl, Q|D, Q|W",Order Rejected
+SHOP,Long,40 Min,14.0,138.61,137.61,35,0,0,137.86,Q|Y|M|W|pdl|D|D|D|D|D,0,71,0,0,2026-01-29,09:59:00,,,,,False,139.78,9,"pdl, D s1, M s2, Q s1, Y pp1, Q|Y|M|W|pdl|D|D|D|D|D, Q|Y|M|W|D|D|D, Q|Y|M, Q|Y",Order Rejected
+OKLO,Long,40 Min,8.0,87.37,86.37,57,0,0,86.62,M|pdo|pdl|D,0,69,0,0,2026-01-29,09:58:00,,,,,False,88.587625,3,"pdo, M|pdo|pdl|D, M|pdl|D",Order Rejected
+PLTR,Long,40 Min,19.0,149.38,148.38,33,0,0,148.63,Q|Y,0,63,0,0,2026-01-29,09:53:00,,,,,False,151.32,2,"Y pp1, Q|Y",Order Rejected
+CRDO,Long,40 Min,6.0,129.68,128.68,38,0,0,128.93,Y pp1,0,80,0,0,2026-01-29,09:59:00,,,,,False,130.3875,1,Y pp1,Order Rejected
+WDC,Long,40 Min,17.0,278.25,277.25,17,0,0,277.5,W r3,0,62,0,0,2026-01-29,09:47:00,,,,,False,282.15875,2,"D pp1, W r3",Order Rejected
+ADSK,Long,40 Min,5.0,243.5,242.5,20,0,0,242.75,Y s1,0,47,0,0,2026-01-29,09:30:00,,,,,False,253.9475,2,"W s2, Y s1",Cancelled(Order Timed)
+GOOGL,Long,40 Min,9.0,329.21,328.21,15,0,0,328.46,M|M|W|W|W|D|D|D,0,33,0,0,2026-01-29,09:47:00,,,,,False,335.35,9,"D s2, D s3, D s4, W pp1, M r1, M|M|W|W|W|D|D|D, M|M|W|W|W|D|D, M|W|W|D, M|M|W|W|W",Order Rejected
+AEM,Long,40 Min,9.0,220.79,219.79,22,22.0,0,220.04,Q|Y|M|W|W|pdo|pdc|pdh|pdl|D|D|D|D,220.02,68,0,0,2026-01-29,09:35:00,10:02:01,,27.03,,False,223.4425,6,"pdo, D s1, W r1, M r4, Q|Y|M|W|W|pdo|pdc|pdh|pdl|D|D|D|D, Q|Y|M|W|W",Sold(Stop)
+MRSH,Long,40 Min,16.0,178.89,177.89,28,0,0,178.14,W|W|W|W|pdo|pdc|pdh|pdl|D|D|D|D|D|D|D|D|D,0,61,0,0,2026-01-29,09:31:00,,,,,False,181.65625,12,"pdo, pdc, pdh, D pp1, D r1, W s1, W|W|W|W|pdo|pdc|pdh|pdl|D|D|D|D|D|D|D|D|D, W|W|W|W|pdc|pdh|pdl|D|D|D|D|D|D|D|D|D, W|W|W|W|W|pdh|pdl|D|D|D|D|D|D|D|D, W|W|W|W|W|pdl|D|D|D|D|D|D|D|D, W|W|W|W|D|D|D|D|D|D|D|D|D, W|W|W|W|W|D|D|D|D|D|D|D",Cancelled(Order Timed)
+SHOP,Long,40 Min,25.0,137.94,136.94,35,0,0,137.19,Q|Y|M|W|D|D|D,0,88,0,0,2026-01-29,10:01:00,,,,,False,138.97625,3,"D s1, D s2, Q|Y|M|W|D|D|D",Order Rejected
+UUUU,Long,40 Min,37.0,24.76,23.76,204,0,0,24.01,Q|W,0,79,0,0,2026-01-29,10:01:00,,,,,False,25.027749999999997,4,"D s2, Q r1, Q|D, Q|W",Order Rejected
+CLS,Long,5 Min,3.0,301.32,300.32,16,0,0,300.57,Q|M|W,0,40,0,0,2026-01-29,10:00:00,,,,,False,306.45000000000005,5,"D s4, W pp1, Q pp1, Q|M|W, Q|M",Order Rejected
+SNOW,Short,5 Min,2.0,202.75,203.75,24,0,0,203.5,Y|M|W|W|W|D|D,0,45,0,0,2026-01-29,09:47:00,,,,,False,197.22477500000002,4,"D s3, W s1, Y|M|W|W|W|D|D, Y|M|W|W",Order Cancelled
+PANW,Long,40 Min,18.0,174.02,173.02,28,0,0,173.27,M s2,0,61,0,0,2026-01-29,09:59:00,,,,,False,176.0875,2,"W s2, M s2",Order Rejected
+IONQ,Long,40 Min,27.98,43.74,42.74,114,0,0,42.99,W|D|D,0,76,0,0,2026-01-29,09:58:00,,,,,False,44.2475,3,"D s3, D s4, W|D|D",Order Rejected
+APP,Long,40 Min,7.0,545.45,544.45,9,0,0,544.7,Q|Y|W|W|pdo|pdc|pdh|pdl|D|D|D,0,25,0,0,2026-01-29,09:47:00,,,,,False,558.342525,11,"pdo, pdc, pdl, D pp1, W pp1, Y pp1, Q|Y|W|W|pdo|pdc|pdh|pdl|D|D|D, Q|Y|W|pdc|pdh|pdl|D|D|D|D, Q|Y|W|pdl|D|D|D|D, Q|Y|W|D|D|D, Q|Y|W",Order Rejected
+CVNA,Long,5 Min,2.0,419.37,418.37,11,0,0,418.62,M|W|D,0,47,0,0,2026-01-29,09:47:00,,,,,False,428.6325,3,"pdc, D pp1, M|W|D",Cancelled(Order Timed)
+HON,Short,40 Min,22.0,225.02,226.02,22,22.0,0,225.77,Y|M|W|W|W|D|D,225.85,62,0,0,2026-01-29,09:47:00,10:04:00,,17.01,,False,218.76500000000001,3,"W r1, Y|M|W|W|W|D|D, Y|M|W|W",Sold(Stop)
+ASTS,Short,5 Min,3.0,121.41,122.41,40,0,0,122.16,W|pdc|pdh|D,0,65,0,0,2026-01-29,09:48:00,,,,,False,117.23125,1,W|pdc|pdh|D,Cancelled(Order Timed)
+V,Long,40 Min,5.0,324.1,323.1,15,0,0,323.35,Q|M|M|W|W|W|W|W|W|D|D|D,0,34,0,0,2026-01-29,09:33:00,,,,,False,329.3231,11,"pdl, D s1, D s2, D s3, D s4, W s1, W s2, Q|M|M|W|W|W|W|W|W|D|D|D, Q|M|W|W|W|W|W|W|W|D|D, Q|M|W|W|W|W|W|W|D, Q|M|M|W|W|W|W|W",Cancelled(Order Timed)
+CRWV,Long,40 Min,34.0,102.07,101.07,49,0,0,101.32,M|W|D,0,69,0,0,2026-01-29,09:33:00,,,,,False,103.225,2,"D s1, M|W|D",Cancelled(Order Timed)
+ALGM,Long,40 Min,13.0,36.13,35.13,140,0,0,35.38,M|W|W|D|D,0,59,0,0,2026-01-29,09:54:00,,,,,False,37.277499999999996,5,"pdh, D r1, D r2, W r2, M|W|W|D|D",Order Rejected
+ACN,Long,40 Min,9.0,260.53,259.53,19,0,0,259.78,Q|M|M|W|W|D|D,0,29,0,0,2026-01-29,09:35:00,,,,,False,268.6475,7,"D s2, W s2, Q pp1, Q|M|M|W|W|D|D, Q|M|W|W, Q|M, Q|M",Cancelled(Order Timed)
+DOCN,Long,40 Min,8.0,56.64,55.64,89,0,0,55.89,Q|M|W|D|D,0,66,0,0,2026-01-29,09:35:00,,,,,False,57.519999999999996,5,"D s2, W r1, Q r1, Q|M|W|D|D, Q|M|W",Order Cancelled
+DAR,Short,40 Min,7.0,48.06,49.06,102,0,0,48.81,Q|W|W,0,57,0,0,2026-01-29,09:35:00,,,,,False,43.658750000000005,3,"W r3, Q r3, Q|W|W",Cancelled(Order Timed)
+SHW,Short,40 Min,5.0,359.66,360.66,13,0,0,360.41,Q|Y|M|M|W|W|W|D,0,33,0,0,2026-01-29,09:35:00,,,,,False,347.38,10,"D r4, W r1, M r3, Y r1, Q|Y|M|M|W|W|D|D, Q|Y|M|M|W|W|W|D, Q|Y|M|M|W|W, Q|Y|M|M, Q|Y|M, Q|Y",Cancelled(Order Timed)
+STX,Short,40 Min,11.0,457.71,458.71,10,0,0,458.46,Q|Y|pdh,0,31,0,0,2026-01-29,09:36:00,,,,,False,444.105,6,"D r1, Q r4, Y r2, Q|Y|pdh, Q|Y|D, Q|Y",Cancelled(Order Timed)
+SBUX,Long,40 Min,18.0,93.72,92.72,53,0,0,92.97,W s1,0,63,0,0,2026-01-29,09:36:00,,,,,False,95.17,1,W s1,Order Cancelled
+BX,Long,40 Min,5.0,142.52,141.52,35,0,0,141.77,M|M|W,0,76,0,0,2026-01-29,09:36:00,,,,,False,143.685,3,"D s3, W s2, M|M|W",Order Cancelled
+NXT,Long,40 Min,6.0,114.96,113.96,43,0,0,114.21,M|W|pdl|D,0,66,0,0,2026-01-29,09:36:00,,,,,False,116.39750000000001,2,"M|W|pdl|D, M|W",Order Cancelled
+MMYT,Long,40 Min,30.0,59.73,58.73,84,0,0,58.98,Y|W|D|D,0,59,0,0,2026-01-29,09:36:00,,,,,False,61.3275,3,"pdl, D s1, Y|W|D|D",Cancelled(Order Timed)
+IBM,Long,40 Min,22.0,303.03,302.03,16,0,0,302.28,Q|M|M|M|W|W|W|W|D,0,20,0,0,2026-01-29,09:37:00,,,,,False,315.38375,7,"D r4, W r2, W r3, M pp1, Q|M|M|M|W|W|W|W|D, M|M|W|W, Q|M|M",Cancelled(Order Timed)
+OKLO,Long,5 Min,4.0,86.59,85.59,57,0,0,85.84,M pp1,0,72,0,0,2026-01-29,10:01:00,,,,,False,87.2149,2,"pdl, M pp1",Order Rejected
+CLS,Long,40 Min,6.0,297.17,296.17,16,16.0,0,296.42,Q pp1,296.41,73,0,0,2026-01-29,10:03:00,10:09:44,,6.75,,False,302.145,1,Q pp1,Sold(Limit)
+AAOI,Long,40 Min,33.0,38.42,37.42,130,0,0,37.67,W|pdo|pdl,0,69,0,0,2026-01-29,10:03:00,,,,,False,39.8,3,"pdo, pdl, W|pdo|pdl",Order Rejected
+NAMM,Long,40 Min,12.0,6.28,5.28,903,0,0,5.53,W r1,0,63,0,0,2026-01-29,09:40:00,,,,,False,6.4695,2,"D pp1, W r1",Order Cancelled
+FSLR,Long,5 Min,4.0,216.28,215.28,23,0,0,215.53,Y|M|W,0,43,0,0,2026-01-29,09:56:00,,,,,False,220.08875,2,"W s4, Y|M|W",Cancelled(Order Timed)
+DOCU,Long,40 Min,26.0,52.01,51.01,97,0,0,51.26,Q|M|W,0,69,0,0,2026-01-29,09:41:00,,,,,False,52.8825,3,"Q s3, Q|M|W, Q|M",Cancelled(Order Timed)
+IP,Long,40 Min,14.0,39.83,38.83,125,0,0,39.08,M|M|M|W|W,0,69,0,0,2026-01-29,10:08:00,,,,,False,40.535000000000004,7,"D s4, W s3, M pp1, M|M|W|W|W|D, M|M|M|W|W, M|M|W, M|M",Order Rejected
+UUUU,Long,40 Min,39.0,24.35,23.35,207,0,0,23.6,Q|D,0,66,0,0,2026-01-29,10:03:00,,,,,False,25.06,2,"D s2, Q|D",Order Rejected
+BABA,Long,40 Min,22.0,176.76,175.76,27,0,0,176.01,Q|M|M|W|W|pdo|pdc|pdh|pdl|D|D|D|D|D|D|D,0,69,0,0,2026-01-29,10:01:00,,,,,False,178.0425,10,"pdo, pdc, pdl, D pp1, D s1, Q|M|M|W|W|pdo|pdc|pdh|pdl|D|D|D|D|D|D|D, Q|M|M|W|pdc|pdh|pdl|D|D|D|D|D|D|D, Q|M|M|W|pdl|D|D|D|D|D|D|D, Q|M|M|W|D|D|D|D|D|D|D, Q|M|M|W",Order Rejected
+MOD,Short,5 Min,3.0,182.44,183.44,26,0,0,183.19,Q|Y|M,0,65,0,0,2026-01-29,09:58:00,,,,,False,175.48,2,"M r2, Q|Y|M",Cancelled(Order Timed)
+AMD,Long,40 Min,13.0,248.58,247.58,20,0,0,247.83,M|M|W|D|D|D,0,34,0,0,2026-01-29,09:47:00,,,,,False,255.47135,6,"pdl, D s1, D s2, W pp1, M|W|pdl|D|D|D|D|D, M|M|W|D|D|D",Order Rejected
+ASTS,Long,40 Min,7.0,114.78,113.78,43,0,0,114.03,M r2,0,64,0,0,2026-01-29,10:05:00,,,,,False,116.25605,3,"pdo, D s1, M r2",Order Rejected
+CRM,Long,40 Min,5.0,209.91,208.91,23,0,0,209.16,W s3,0,64,0,0,2026-01-29,09:43:00,,,,,False,212.035,1,W s3,Cancelled(Order Timed)
+VLO,Long,40 Min,18.0,187.63,186.63,26,0,0,186.88,Q|M|W|W|W|pdh|pdl|D|D|D|D|D|D,0,49,0,0,2026-01-29,09:54:00,,,,,False,190.45250000000001,6,"pdh, D r1, D r2, W pp1, Q|M|W|W|W|pdh|pdl|D|D|D|D|D|D, M|W|W|W",Order Rejected
+LRCX,Long,5 Min,2.0,241.34,240.34,20,0,0,240.59,Q|W|pdo|pdc|pdh|pdl|D|D|D|D|D,0,44,0,0,2026-01-29,09:59:00,,,,,False,244.9125,6,"pdo, D pp1, Q|W|pdo|pdc|pdh|pdl|D|D|D|D|D, Q|W|pdh|pdl|D|D|D|D|D, Q|W|D|D|D|D|D, Q|W",Cancelled(Order Timed)
+MSFT,Long,40 Min,14.0,423.36,422.36,11,0,0,422.61,Q|M|W|W,0,32,0,0,2026-01-29,09:44:00,,,,,False,435.1075,1,Q|M|W|W,Cancelled(Order Timed)
+COIN,Long,40 Min,32.0,198.96,197.96,24,24.0,0,198.21,M|W|D|D,198.21,75,0,0,2026-01-29,10:02:00,10:14:07,,12.13,,False,201.3825,3,"D s3, M s2, M|W|D|D",Sold(Limit)
+LVS,Long,40 Min,26.0,54.14,53.14,93,93.0,0,53.39,W s4,53.37,77,0,0,2026-01-29,09:52:00,10:12:54,,20.9,,False,54.5738,1,W s4,Sold(Stop)
+MP,Long,40 Min,10.98,60.96,59.96,82,82.0,0,60.21,M|D,60.19,66,0,0,2026-01-29,09:41:00,10:10:18,,29.32,,False,62.525,2,"D s4, M|D",Sold(Stop)
+LITE,Short,40 Min,5.0,399.84,400.84,12,0,0,400.59,D|D,0,43,0,0,2026-01-29,09:47:00,,,,,False,383.9975,2,"D r2, D|D",Cancelled(Order Timed)
+SNDK,Short,40 Min,7.0,548.68,549.68,9,0,0,549.43,Q|D|D,0,25,0,0,2026-01-29,09:47:00,,,,,False,526.853575,2,"D r2, Q|D|D",Cancelled(Order Timed)
+TXN,Short,40 Min,32.0,219.27,220.27,22,0,0,220.02,Q|Y|W|D|D,0,51,0,0,2026-01-29,09:47:00,,,,,False,212.275625,4,"D r1, Q r3, Q|Y|W|D|D, Q|Y",Cancelled(Order Timed)
+ORCL,Long,40 Min,20.0,162.48,161.48,30,30.0,0,161.73,W s2,161.72,55,0,0,2026-01-29,09:53:00,10:14:06,,21.1,,False,165.5925,1,W s2,Sold(Limit)
+LUV,Short,40 Min,35.0,46.08,47.08,106,0,0,46.83,Q|W,0,57,0,0,2026-01-29,09:47:00,,,,,False,41.60374999999999,2,"Q r1, Q|W",Cancelled(Order Timed)
+AVGO,Short,40 Min,20.0,339.0,340.0,14,0,0,339.75,W|pdh|D|D|D,0,39,0,0,2026-01-29,09:47:00,,,,,False,327.78499999999997,6,"pdh, D r1, D r2, W r1, W|pdh|D|D|D, W|D|D",Cancelled(Order Timed)
+MU,Short,40 Min,5.0,455.36,456.36,10,0,0,456.11,Q|Y|W|D|D,0,19,0,0,2026-01-29,09:47:00,,,,,False,436.18387500000006,5,"D r2, Y r2, Y|W|D|D, Q|Y|W|D|D, Y|W",Cancelled(Order Timed)
+PAAS,Long,40 Min,19.0,64.25,63.25,78,78.0,0,63.5,Y|M|W|pdl|D|D|D,63.5,57,0,0,2026-01-29,09:47:00,10:17:05,,30.1,,False,65.83500000000001,3,"D s1, Y|M|W|pdl|D|D|D, Y|M",Sold(Stop)
+BE,Short,40 Min,11.0,166.75,167.75,29,0,0,167.5,W|W|pdh|D|D,0,54,0,0,2026-01-29,09:48:00,,,,,False,159.9175,3,"pdh, W|pdc|pdh|D|D, W|W|pdh|D|D",Cancelled(Order Timed)
+MA,Long,40 Min,15.0,512.11,511.11,9,0,0,511.36,Q|M|M|W|W|W|W|D|D|D,0,47,0,0,2026-01-29,09:48:00,,,,,False,527.25,14,"pdl, D s1, D s2, D s3, D s4, W s1, W s2, M s2, Q|M|M|W|W|W|W|D|D|D, Q|M|M|W|W|W|W|D|D, Q|M|M|W|W|W|W|W|D, Q|M|M|W|W|W, Q|M|M|W|W|W, Q|M|M",Cancelled(Order Timed)
+MP,Long,40 Min,39.0,60.16,59.16,81,0,0,59.41,M r1,0,78,0,0,2026-01-29,10:19:00,,,,,False,60.585,1,M r1,Order Rejected
+CEG,Short,40 Min,5.0,297.14,298.14,16,0,0,297.89,M|W|W|D|D|D,0,34,0,0,2026-01-29,09:49:00,,,,,False,286.756775,5,"D r2, D r3, W r1, M|W|W|D|D|D, M|W|W",Cancelled(Order Timed)
+FIGR,Long,40 Min,22.0,60.36,59.36,83,83.0,0,59.61,Y r2,59.48,68,0,0,2026-01-29,09:53:00,10:19:32,,26.55,,False,62.264325,2,"D s2, Y r2",Sold(Stop)
+TSLA,Long,40 Min,17.0,417.38,416.38,11,0,0,416.63,M|W|W|D,0,25,0,0,2026-01-29,09:50:00,,,,,False,428.3725,6,"D s3, D s4, M s1, M|W|D|D, M|W|W|D, M|W",Cancelled(Order Timed)
+VRT,Short,40 Min,9.0,197.51,198.51,25,0,0,198.26,Q|W|W|D|D|D,0,70,0,0,2026-01-29,09:50:00,,,,,False,192.19374999999997,1,Q|W|W|D|D|D,Cancelled(Order Timed)
+NAMM,Long,40 Min,38.0,5.52,4.52,1023,0,0,4.77,pdo|D,0,60,0,0,2026-01-29,10:17:00,,,,,False,5.77625,2,"D s1, pdo|D",Order Rejected
+LBRT,Short,40 Min,20.0,26.68,27.68,181,0,0,27.43,M|W,0,59,0,0,2026-01-29,09:51:00,,,,,False,22.659999999999997,3,"W r4, M r4, M|W",Order Cancelled
+INOD,Short,40 Min,9.0,63.35,64.35,77,0,0,64.1,Q pp1,0,77,0,0,2026-01-29,09:52:00,,,,,False,59.204825,2,"W r1, Q pp1",Cancelled(Order Timed)
+AMZN,Long,40 Min,19.0,236.18,235.18,21,0,0,235.43,Q|M|M|W|W|W|D|D|D,0,43,0,0,2026-01-29,09:53:00,,,,,False,239.975,3,"D s2, W pp1, Q|M|M|W|W|W|D|D|D",Cancelled(Order Timed)
+TEAM,Short,40 Min,9.0,120.01,121.01,41,0,0,120.76,W s1,0,64,0,0,2026-01-29,09:54:00,,,,,False,114.18875,1,W s1,Order Cancelled
+APH,Short,40 Min,15.0,152.37,153.37,32,0,0,153.12,M r2,0,51,0,0,2026-01-29,09:54:00,,,,,False,145.81125000000003,3,"D r1, W pp1, M r2",Cancelled(Order Timed)
+FCX,Long,40 Min,27.98,65.63,64.63,76,0,0,64.88,Q|W|W|D|D,0,62,0,0,2026-01-29,09:58:00,,,,,False,67.09875,3,"pdh, D r1, Q|W|W|D|D",Order Rejected
+JPM,Short,40 Min,31.0,308.94,309.94,16,0,0,309.69,Q|Q|M|M|W|W,0,36,0,0,2026-01-29,09:55:00,,,,,False,299.5875,5,"D r4, W r2, Q pp1, Q|Q|M|M|W|W, Q|M",Cancelled(Order Timed)
+B,Long,40 Min,38.0,51.73,50.73,95,0,0,50.98,Q|M|W|W|W|W|pdl|D|D|D|D,0,69,0,0,2026-01-29,10:22:00,,,,,False,52.536249999999995,4,"pdl, D s2, Q|M|W|W|W|W|pdl|D|D|D|D, M|W|W|W|D|D|D",Order Rejected
+BABA,Long,40 Min,36.0,175.14,174.14,27,0,0,174.39,Q|M|M|W|pdl|D|D|D|D|D|D|D,0,67,0,0,2026-01-29,10:14:00,,,,,False,177.305,6,"pdl, D s1, Q|M|M|W|pdl|D|D|D|D|D|D|D, Q|M|M|W|D|D|D|D|D|D|D, Q|M|M|W|D|D|D|D|D, Q|M|M|W",Order Rejected
+AMAT,Long,40 Min,6.0,327.7,326.7,15,0,0,326.95,W|W|D|D|D,0,24,0,0,2026-01-29,09:59:00,,,,,False,337.0475,3,"D s1, D s2, W|W|D|D|D",Cancelled(Order Timed)
+ADBE,Long,40 Min,18.0,282.79,281.79,17,0,0,282.04,Y|M,0,41,0,0,2026-01-29,09:59:00,,,,,False,287.0425,4,"W s2, W s3, M s3, Y|M",Cancelled(Order Timed)
+CMCSA,Short,40 Min,29.0,29.79,30.79,161,0,0,30.54,Y|W|W|D,0,64,0,0,2026-01-29,09:59:00,,,,,False,26.096249999999998,4,"D r4, W r1, W r2, Y|W|W|D",Cancelled(Order Timed)
+FCX,Long,40 Min,35.0,64.65,63.65,76,0,0,63.9,Q|W|W|W|pdo|pdc|pdh|pdl|D|D|D|D,0,71,0,0,2026-01-29,10:27:00,,,,,False,65.383175,8,"pdo, pdc, D pp1, W r2, Q r2, Q|W|W|W|pdo|pdc|pdh|pdl|D|D|D|D, Q|W|W|pdc|pdh|pdl|D|D|D, Q|W|W|D|D|D",Order Rejected
+NVDA,Long,40 Min,26.0,188.29,187.29,26,0,0,187.54,Q|M|W|W|D|D|D,0,53,0,0,2026-01-29,10:00:00,,,,,False,190.6925,5,"D s2, D s3, Q|M|W|W|D|D|D, Q|M|W|W|D|D, Q|M",Cancelled(Order Timed)
+NOW,Long,40 Min,29.98,113.49,112.49,43,0,0,112.74,Y s1,0,57,0,0,2026-01-29,10:00:00,,,,,False,115.64250000000001,1,Y s1,Cancelled(Order Timed)
+TSM,Long,40 Min,29.0,333.74,332.74,14,0,0,332.99,Q|Q|M|W|W|W|D|D,0,36,0,0,2026-01-29,10:07:00,,,,,False,338.56,7,"D s3, D s4, W pp1, W s1, Q|Q|M|W|W|W|D|D, Q|M|M|W|W|W|D, Q|Q|M|W|W|W",Order Rejected
+UEC,Long,40 Min,38.0,18.85,17.85,270,270.0,0,18.1,Y|D,18.1,77,0,0,2026-01-29,10:08:00,10:22:59,,14.99,,False,18.9625,2,"D s3, Y|D",Sold(Stop)
+PLTR,Long,40 Min,13.0,147.81,146.81,33,0,0,147.06,Q|Y|M|W,0,55,0,0,2026-01-29,10:01:00,,,,,False,150.1275,4,"D s3, Q s1, Q|Y|M|W, Q|Y|M",Cancelled(Order Timed)
+MSTR,Long,40 Min,16.0,146.37,145.37,33,33.0,0,145.62,W|W|D|D,145.57,63,0,0,2026-01-29,10:12:00,10:31:37,,19.63,,False,148.18625,2,"D s3, W|W|D|D",Sold(Stop)
+GOOGL,Long,40 Min,6.0,317.87,316.87,15,0,0,317.12,M|M|W|W,0,22,0,0,2026-01-29,10:02:00,,,,,False,329.8175,4,"D s4, W s1, M|W|W|D, M|M|W|W",Cancelled(Order Timed)
+B,Long,40 Min,28.0,51.11,50.11,96,0,0,50.36,Q|M|W|W|W|D|D,0,71,0,0,2026-01-29,10:28:00,,,,,False,51.755024999999996,10,"D s2, D s3, W pp1, W s1, M r2, Q r1, Q|M|W|W|W|D|D, Q|M|W|W|W|D|D, Q|M|W|W|W, Q|M",Order Rejected
+GLW,Long,40 Min,15.0,101.38,100.38,48,0,0,100.63,M|W|W|W|D|D,0,65,0,0,2026-01-29,10:13:00,,,,,False,102.89275,3,"D s1, W r3, M|W|W|W|D|D",Order Rejected
+HOOD,Long,40 Min,33.0,100.1,99.1,49,0,0,99.35,Y|M|W|W|W|D|D,0,63,0,0,2026-01-29,10:03:00,,,,,False,101.6625,4,"D s2, Y pp1, Y|M|W|W|W|D|D, Y|M|W",Cancelled(Order Timed)
+NEM,Long,40 Min,11.0,126.69,125.69,38,0,0,125.94,Q|Y|M|W|W|D|D|D,0,66,0,0,2026-01-29,10:27:00,,,,,False,128.095,5,"D s2, D s3, Q|Y|M|W|W|D|D|D, Q|Y|M|W|W, Q|Y|M",Order Rejected
+BE,Long,40 Min,14.0,155.12,154.12,31,0,0,154.37,Y|M|W,0,58,0,0,2026-01-29,10:20:00,,,,,False,157.68,2,"W r1, Y|M|W",Order Rejected
+APLD,Long,40 Min,38.0,37.48,36.48,133,0,0,36.73,Q|W|D,0,59,0,0,2026-01-29,10:05:00,,,,,False,38.54845,3,"D s2, Q r1, Q|W|D",Cancelled(Order Timed)
+IREN,Long,40 Min,15.0,57.96,56.96,85,0,0,57.21,D|D,0,58,0,0,2026-01-29,10:05:00,,,,,False,59.225,2,"D s2, D|D",Cancelled(Order Timed)
+CVNA,Long,40 Min,33.0,409.55,408.55,12,0,0,408.8,Q|W|pdc|D,0,20,0,0,2026-01-29,10:05:00,,,,,False,425.413775,2,"pdc, Q|W|pdc|D",Cancelled(Order Timed)
+SHOP,Long,40 Min,30.0,138.12,137.12,35,0,0,137.37,Q s1,0,86,0,0,2026-01-29,10:06:00,,,,,False,139.19,1,Q s1,Cancelled(Order Timed)
+CRWV,Long,40 Min,9.0,100.02,99.02,49,0,0,99.27,W r1,0,62,0,0,2026-01-29,10:06:00,,,,,False,101.9025,1,W r1,Cancelled(Order Timed)
+AAPL,Long,40 Min,36.0,248.65,247.65,19,0,0,247.9,Q|Y|M|M|W|W|W|D|D,0,27,0,0,2026-01-29,10:07:00,,,,,False,256.223125,11,"D s2, D s3, D s4, W pp1, Q s1, Q|M|W|W|W|D|D|D, Q|Y|M|M|W|W|W|D|D, Q|Y|M|M|W|W|W|D, Q|Y|M|M|W|W|W, Q|M, Q|Y",Cancelled(Order Timed)
+IP,Long,40 Min,13.0,39.18,38.18,126,0,0,38.43,M|M|W,0,62,0,0,2026-01-29,10:13:00,,,,,False,40.0675,2,"M|M|W, M|M",Order Rejected
+FCX,Long,40 Min,35.0,64.13,63.13,76,0,0,63.38,Q|W|W|pdc|pdh|pdl|D|D|D,0,70,0,0,2026-01-29,10:31:00,,,,,False,65.01249999999999,5,"pdc, D pp1, Q r2, Q|W|W|pdc|pdh|pdl|D|D|D, Q|W|W|D|D|D",Order Rejected
+IBM,Long,40 Min,39.0,301.7,300.7,16,0,0,300.95,Q|M|M|W|W|W|W|D|D,0,29,0,0,2026-01-29,10:09:00,,,,,False,312.7025,8,"D r3, D r4, W r1, W r2, M pp1, Q|M|M|W|W|W|W|D|D, Q|M|M|W|W, Q|M|M",Cancelled(Order Timed)
+INDO,Long,5 Min,1.0,4.67,3.67,1245,0,0,3.92,M|W|D,0,57,0,0,2026-01-29,10:24:00,,,,,False,4.45135,7,"D s3, D s4, W s1, M r3, Q r3, M|W|D, M|W",Order Cancelled
+AMD,Long,40 Min,20.0,244.69,243.69,19,0,0,243.94,M|W|D|D|D,0,46,0,0,2026-01-29,10:28:00,,,,,False,248.3875,2,"D s2, M|W|D|D|D",Order Rejected
+NEM,Long,40 Min,11.0,125.47,124.47,38,0,0,124.72,Q|Y|M|W|W|D|D,0,65,0,0,2026-01-29,10:35:00,,,,,False,126.86775,6,"D s3, Q r2, Y r1, Q|Y|M|W|W|D|D, Q|Y|M, Q|Y",Order Rejected
+B,Long,40 Min,27.0,50.85,49.85,96,0,0,50.1,Q|M|W|W|W|D|D,0,72,0,0,2026-01-29,10:34:00,,,,,False,51.455,7,"D s3, W s1, M r2, Q r1, Q|M|W|W|W|D|D, Q|M|W|W, Q|M",Order Rejected
+NEM,Long,40 Min,15.0,125.12,124.12,38,0,0,124.37,Q r2,0,84,0,0,2026-01-29,10:41:00,,,,,False,125.83527500000001,1,Q r2,Order Rejected
+LRCX,Long,40 Min,18.0,240.44,239.44,20,20.0,0,239.69,Q|W|W|pdc|pdh|pdl|D|D|D|D|D,239.67,56,0,0,2026-01-29,10:16:00,10:41:34,,25.57,,False,243.345,6,"pdo, pdc, D pp1, Q r3, Q|W|W|pdc|pdh|pdl|D|D|D|D|D, Q|W|D|D|D|D|D",Sold(Stop)
+COIN,Long,40 Min,22.0,196.79,195.79,24,0,0,196.04,M s2,0,55,0,0,2026-01-29,10:17:00,,,,,False,199.35500000000002,2,"D s4, M s2",Order Rejected
+BE,Long,40 Min,8.0,152.2,151.2,31,0,0,151.45,Y r1,0,63,0,0,2026-01-29,10:40:00,,,,,False,153.73,1,Y r1,Order Rejected
+TSLA,Long,40 Min,33.0,418.84,417.84,11,0,0,418.09,M s1,0,37,0,0,2026-01-29,10:22:00,,,,,False,425.32,3,"D s3, D s4, M s1",Order Rejected
+MSFT,Long,40 Min,25.0,413.52,412.52,11,0,0,412.77,Q|W,0,26,0,0,2026-01-29,10:16:00,,,,,False,428.157275,3,"W s3, Q s2, Q|W",Cancelled(Order Timed)
+CRM,Long,40 Min,19.0,207.23,206.23,23,0,0,206.48,Q|Y|M|W|W,0,41,0,0,2026-01-29,10:16:00,,,,,False,211.1575,1,Q|Y|M|W|W,Cancelled(Order Timed)
+MSTR,Long,40 Min,22.0,143.01,142.01,33,0,0,142.26,M|W|D,0,57,0,0,2026-01-29,10:33:00,,,,,False,145.59375,3,"D s4, W s3, M|W|D",Order Rejected
+NVDA,Long,40 Min,34.0,186.87,185.87,25,0,0,186.12,Q|M|W|W|W|D,0,55,0,0,2026-01-29,10:32:00,,,,,False,189.03125,5,"D s4, W pp1, Q|M|W|W|D|D, Q|M|W|W|W|D, Q|M",Order Rejected
+SNDK,Long,40 Min,6.0,513.51,512.51,9,0,0,512.76,W|D,0,26,0,0,2026-01-29,10:19:00,,,,,False,524.190025,2,"D s1, W|D",Cancelled(Order Timed)
+AVGO,Long,40 Min,13.0,318.05,317.05,15,0,0,317.3,M|W|D|D,0,24,0,0,2026-01-29,10:19:00,,,,,False,327.27875,2,"D s2, M|W|D|D",Cancelled(Order Timed)
+MU,Long,40 Min,11.0,421.42,420.42,11,0,0,420.67,M|W|pdl|D|D|D,0,28,0,0,2026-01-29,10:19:00,,,,,False,431.7045,8,"pdo, pdl, D s1, W r1, M r4, M|W|pdl|D|D|D, M|W|D|D, M|W",Cancelled(Order Timed)
+APH,Long,40 Min,38.0,146.19,145.19,33,0,0,145.44,Q|M|W|W|pdc|D,0,57,0,0,2026-01-29,10:36:00,,,,,False,148.2275,7,"pdc, D pp1, W s1, Q r1, Q|M|W|W|pdc|D, Q|M|W|W|D, Q|M",Order Rejected
+AMD,Long,40 Min,9.0,242.32,241.32,19,0,0,241.57,M|W|W|D|D,0,46,0,0,2026-01-29,10:41:00,,,,,False,245.4675,3,"D s3, M r2, M|W|W|D|D",Order Rejected
+APH,Long,40 Min,19.0,146.09,145.09,32,0,0,145.34,Q|M|W|W|D,0,78,0,0,2026-01-29,10:53:00,,,,,False,146.79125,3,"M r1, Q|M|W|W|D, Q|M|W",Order Rejected
+KGC,Long,40 Min,30.0,35.98,34.98,137,0,0,35.23,Q|Y|M|W|D,0,68,0,0,2026-01-29,10:27:00,,,,,False,36.6275,10,"D s4, W s1, M r4, Y r1, Y|M|W|W|D|D, Q|Y|M|W|D, Y|M|W|W, Q|Y|M|W, Q|Y|M, Q|Y",Order Rejected
+STX,Short,40 Min,5.0,462.97,463.97,10,0,0,463.72,Q|Y|D,0,17,0,0,2026-01-29,10:25:00,,,,,False,441.4125,5,"D r1, Q r4, Y r2, Q|Y|D, Q|Y",Cancelled(Order Timed)
+ORCL,Long,40 Min,36.0,159.73,158.73,30,0,0,158.98,W|D|D,0,53,0,0,2026-01-29,10:28:00,,,,,False,162.725,2,"D s3, W|D|D",Cancelled(Order Timed)
+TSM,Long,40 Min,20.0,326.78,325.78,14,0,0,326.03,Q|M|M|W|W|W|D,0,27,0,0,2026-01-29,10:33:00,,,,,False,334.1925,6,"D s4, W s1, Q r1, Q|M|M|W|W|W|D, Q|M|M|W|W, Q|M",Cancelled(Order Timed)
+GOOGL,Long,40 Min,21.0,325.06,324.06,14,0,0,324.31,M|W|W|D,0,46,0,0,2026-01-29,10:34:00,,,,,False,328.39,3,"D s4, W s1, M|W|W|D",Cancelled(Order Timed)
+MU,Long,5 Min,2.0,407.47,406.47,11,0,0,406.72,M|W|D|D,0,14,0,0,2026-01-29,10:51:00,,,,,False,422.677525,3,"pdl, D s2, M|W|D|D",Cancelled(Order Timed)
+FIGR,Long,5 Min,4.0,57.72,56.72,82,0,0,56.97,Q|W,0,67,0,0,2026-01-29,10:53:00,,,,,False,58.18,2,"W s1, Q|W",Cancelled(Order Timed)
+FCX,Long,40 Min,26.0,62.89,61.89,77,0,0,62.14,Q|Y|M|W|W,0,61,0,0,2026-01-29,10:41:00,,,,,False,64.41874999999999,5,"pdl, D s1, W r1, Q r2, Q|Y|M|W|W",Cancelled(Order Timed)
+B,Long,40 Min,28.0,49.98,48.98,97,0,0,49.23,Q|M|W|W|W|W|D,0,60,0,0,2026-01-29,10:42:00,,,,,False,51.1375,3,"W s1, Q|M|W|W|W|W|D, Q|M|W|W",Cancelled(Order Timed)
+PAAS,Long,40 Min,28.0,60.97,59.97,79,0,0,60.22,Q|W|W|D|D,0,67,0,0,2026-01-29,10:43:00,,,,,False,61.915000000000006,3,"D s3, Q r1, Q|W|W|D|D",Cancelled(Order Timed)
+OKLO,Long,40 Min,36.0,83.11,82.11,57,0,0,82.36,W s1,0,59,0,0,2026-01-29,10:45:00,,,,,False,84.96625,1,W s1,Cancelled(Order Timed)
+NEM,Long,40 Min,19.02,123.28,122.28,38,0,0,122.53,Q|Y|W|W|D,0,60,0,0,2026-01-29,10:45:01,,,,,False,125.7425,2,"Q|Y|W|W|D, Q|Y|W|W",Cancelled(Order Timed)
+TSLA,Long,40 Min,11.0,405.62,404.62,11,0,0,404.87,M|W|W,0,17,0,0,2026-01-29,10:46:00,,,,,False,419.24,2,"W s2, M|W|W",Cancelled(Order Timed)
+MSFT,Long,40 Min,22.0,412.66,411.66,11,0,0,411.91,Q s2,0,18,0,0,2026-01-29,10:48:00,,,,,False,426.245,2,"W s3, Q s2",Cancelled(Order Timed)
+MSTR,Long,40 Min,17.0,141.11,140.11,33,0,0,140.36,M s1,0,61,0,0,2026-01-29,10:49:00,,,,,False,142.80625,1,M s1,Cancelled(Order Timed)
+BABA,Long,40 Min,22.0,171.6,170.6,27,0,0,170.85,M|W|D|D,0,63,0,0,2026-01-29,10:49:00,,,,,False,173.2825,5,"D s3, D s4, M r2, M|W|D|D, M|W|D",Cancelled(Order Timed)
+CRWV,Long,40 Min,23.0,98.37,97.37,48,0,0,97.62,Q|Y|W,0,57,0,0,2026-01-29,10:50:00,,,,,False,100.225375,1,Q|Y|W,Cancelled(Order Timed)
+BE,Long,40 Min,15.0,149.54,148.54,31,0,0,148.79,Y|W|D,0,61,0,0,2026-01-29,10:50:00,,,,,False,151.70999999999998,2,"D s2, Y|W|D",Cancelled(Order Timed)
+AAPL,Long,40 Min,24.0,248.38,247.38,19,0,0,247.63,Q|Y|M|M|W|W|W|D,0,29,0,0,2026-01-29,10:50:00,,,,,False,255.1625,8,"D s3, W pp1, Q s1, Q|Y|M|M|W|W|W|D, Q|Y|M|M|W|W|W, Q|M, Q|Y|M, Q|Y",Cancelled(Order Timed)
+AVGO,Long,40 Min,12.0,310.06,309.06,15,0,0,309.31,M s1,0,22,0,0,2026-01-29,10:51:00,,,,,False,322.7125,2,"D s3, M s1",Cancelled(Order Timed)
+IREN,Long,40 Min,25.0,56.5,55.5,85,0,0,55.75,M r2,0,58,0,0,2026-01-29,10:51:00,,,,,False,57.883874999999996,2,"D s3, M r2",Cancelled(Order Timed)
+NVDA,Long,40 Min,25.0,185.3,184.3,25,0,0,184.55,Q|M|W|W,0,59,0,0,2026-01-29,10:51:00,,,,,False,187.14625,3,"W pp1, M pp1, Q|M|W|W",Cancelled(Order Timed)
+ACN,Long,5 Min,2.0,256.1,255.1,18,0,0,255.35,Q|M|W|W|W|D|D,0,25,0,0,2026-01-29,11:06:00,,,,,False,262.05499999999995,7,"D s3, W s3, M s1, Q|M|W|W|W|D|D, M|W|W|D, Q|M|W|W, Q|M",Cancelled(Order Timed)
+SNDK,Long,40 Min,5.0,496.19,495.19,9,0,0,495.44,Q|pdo|pdl|D|D,0,28,0,0,2026-01-29,10:53:00,,,,,False,514.538525,5,"pdo, pdl, D s1, Q|pdo|pdl|D|D, Q|pdl|D|D",Cancelled(Order Timed)
+APH,Long,40 Min,21.0,145.24,144.24,32,0,0,144.49,Q|M|W,0,67,0,0,2026-01-29,10:55:00,,,,,False,146.6825,2,"M r1, Q|M|W",Cancelled(Order Timed)
+MU,Short,5 Min,2.0,431.6,432.6,11,0,0,432.35,M|W|W|pdc|pdh|D|D|D,0,21,0,0,2026-01-29,11:11:00,,,,,False,416.924375,4,"pdc, D pp1, M|W|W|pdc|pdh|D|D|D, M|W|W|D|D|D",Cancelled(Order Timed)
+IBM,Short,40 Min,9.0,319.63,320.63,14,0,0,320.38,Q|M|M|W,0,24,0,0,2026-01-29,10:57:00,,,,,False,306.39625,2,"W r4, Q|M|M|W",Cancelled(Order Timed)
+AMD,Long,40 Min,22.0,239.04,238.04,19,0,0,238.29,M|W|D,0,46,0,0,2026-01-29,11:01:00,,,,,False,242.9975,2,"D s4, M|W|D",Cancelled(Order Timed)
+WDC,Short,5 Min,2.0,282.85,283.85,17,0,0,283.6,Q|Y|W|W|pdh|D|D,0,28,0,0,2026-01-29,11:21:00,,,,,False,274.32,3,"pdh, D r1, Q|Y|W|W|pdh|D|D",Cancelled(Order Timed)
+SNDK,Long,5 Min,2.0,518.9,517.9,9,0,0,518.15,W r1,0,13,0,0,2026-01-29,11:27:00,,,,,False,532.54,2,"D pp1, W r1",Cancelled(Order Timed)
+KXIN,Short,40 Min,9.0,15.14,16.14,304,0,0,15.89,W|D,0,76,0,0,2026-01-29,11:43:00,,,,,False,12.357500000000002,3,"D pp1, W r2, W|D",Order Rejected
+GOOGL,Short,40 Min,33.0,335.71,336.71,14,0,0,336.46,Q|M|M|W|W|W|pdh|pdl|D|D|D|D|D|D|D|D,0,30,0,0,2026-01-29,11:13:00,,,,,False,325.2825,17,"pdo, pdc, pdh, D pp1, D r1, D r2, W r1, W r2, M r2, M|M|W|W|W|pdo|pdc|pdh|pdl|D|D|D|D|D|D|D|D, M|M|W|W|W|pdc|pdh|pdl|D|D|D|D|D|D|D|D, Q|M|M|W|W|W|pdh|pdl|D|D|D|D|D|D|D|D, M|M|W|W|W|D|D|D|D|D|D|D|D|D, Q|M|W|W|W|D|D|D|D|D|D|D, M|M|W|W|W|D|D|D|D|D|D, Q|M|W|W|W|D|D|D|D, M|M|W|W",Cancelled(Order Timed)
+TSLA,Short,40 Min,8.0,430.89,431.89,11,0,0,431.64,Q|M|W|W|pdo|pdc|pdh|pdl|D|D|D|D|D|D|D|D,0,30,0,0,2026-01-29,11:18:00,,,,,False,415.20125,16,"pdo, pdc, pdh, pdl, D pp1, D r1, D s1, W s1, Q|M|W|W|pdo|pdc|pdh|pdl|D|D|D|D|D|D|D|D, Q|M|W|W|pdc|pdh|pdl|D|D|D|D|D|D|D|D, Q|W|W|pdh|pdl|D|D|D|D|D|D|D, Q|M|W|W|pdl|D|D|D|D|D|D|D|D, Q|W|W|D|D|D|D|D|D|D, Q|W|W|D|D|D|D|D|D, M|W|W|D|D|D|D|D, Q|W|W",Cancelled(Order Timed)
+LRCX,Short,40 Min,7.0,242.76,243.76,19,0,0,243.51,Q|W|D|D|D|D,0,68,0,0,2026-01-29,11:20:00,,,,,False,237.01375000000002,4,"pdh, D r1, W r2, Q|W|D|D|D|D",Order Cancelled
+PLTR,Short,40 Min,29.0,151.5,152.5,31,0,0,152.25,W s3,0,55,0,0,2026-01-29,11:20:00,,,,,False,145.355,2,"D s2, W s3",Cancelled(Order Timed)
+TSM,Short,40 Min,13.0,343.55,344.55,14,0,0,344.3,Q|M|M|W|W|W|pdh|pdl|D|D|D|D|D|D|D,0,19,0,0,2026-01-29,11:23:00,,,,,False,327.75124999999997,18,"pdo, pdc, pdh, pdl, D pp1, D r1, D s1, W r1, Q r2, Q|M|W|W|W|pdo|pdc|pdh|pdl|D|D|D|D|D|D|D, Q|M|W|W|W|pdc|pdh|pdl|D|D|D|D|D|D|D, Q|M|M|W|W|W|pdh|pdl|D|D|D|D|D|D|D, Q|M|W|W|pdl|D|D|D|D|D|D|D, Q|M|W|W|W|D|D|D|D|D|D|D, Q|M|M|W|W|W|D|D|D|D|D|D, Q|M|W|W|D|D|D|D|D, Q|M|W|W, Q|M",Cancelled(Order Timed)
+AVGO,Short,40 Min,33.0,332.4,333.4,14,0,0,333.15,W|W|pdc|pdh|pdl|D|D|D,0,27,0,0,2026-01-29,11:25:00,,,,,False,319.55625,4,"pdc, D pp1, W|W|pdc|pdh|pdl|D|D|D, W|W|D|D|D",Cancelled(Order Timed)
+MSFT,Long,40 Min,37.0,414.39,413.39,11,0,0,413.64,W s3,0,24,0,0,2026-01-29,11:26:00,,,,,False,423.15250000000003,1,W s3,Cancelled(Order Timed)
+IREN,Short,40 Min,33.0,59.36,60.36,80,0,0,60.11,W|pdo|pdl|D|D|D,0,64,0,0,2026-01-29,11:26:00,,,,,False,55.378750000000004,7,"pdo, pdl, D s1, W r1, W|pdo|pdl|D|D|D, W|pdl|D|D, W|D",Cancelled(Order Timed)
+MU,Short,40 Min,15.0,440.05,441.05,10,0,0,440.8,Y|M|W|pdh|D|D|D,0,23,0,0,2026-01-29,11:28:00,,,,,False,421.09999999999997,5,"pdc, pdh, D r1, W r2, Y|M|W|pdh|D|D|D",Cancelled(Order Timed)
+SNDK,Short,40 Min,9.0,556.29,557.29,8,0,0,557.04,Q|W|D,0,17,0,0,2026-01-29,11:45:00,,,,,False,533.899925,4,"D r2, Q r4, Q|W|D, Q|W",Cancelled(Order Timed)
+KXIN,Short,40 Min,13.0,14.96,15.96,307,0,0,15.71,W r2,0,72,0,0,2026-01-29,11:46:00,,,,,False,12.250550000000002,1,W r2,Cancelled(Order Timed)
+GOOGL,Short,40 Min,39.0,334.9,335.9,14,0,0,335.65,M|M|W|W|W|pdo|pdc|pdh|pdl|D|D|D|D|D|D|D|D,0,38,0,0,2026-01-29,11:46:00,,,,,False,326.38125,17,"pdo, pdc, pdh, D pp1, D r1, D r2, D r3, W r1, W r2, M r2, M|M|W|W|W|pdo|pdc|pdh|pdl|D|D|D|D|D|D|D|D, M|M|W|W|W|pdc|pdh|pdl|D|D|D|D|D|D|D|D, M|M|W|W|W|D|D|D|D|D|D|D|D|D, Q|M|W|W|W|D|D|D|D|D|D|D, Q|M|W|W|W|D|D|D|D, M|M|W|W, Q|M",Cancelled(Order Timed)
+TSLA,Short,5 Min,4.0,430.38,431.38,11,0,0,431.13,Q|M|W|W|pdl|D|D|D|D|D|D|D|D,0,21,0,0,2026-01-29,12:02:00,,,,,False,418.1675,14,"pdo, pdc, pdh, pdl, D pp1, D r1, D s1, W s1, Q|W|W|pdh|pdl|D|D|D|D|D|D|D, Q|M|W|W|pdl|D|D|D|D|D|D|D|D, Q|W|W|D|D|D|D|D|D|D, Q|W|W|D|D|D|D|D|D, M|W|W|D|D|D|D|D, Q|W|W",Cancelled(Order Timed)
+MU,Short,40 Min,22.0,446.98,447.98,10,0,0,447.73,Y|W|D|D,0,16,0,0,2026-01-29,11:59:00,,,,,False,425.815,5,"pdh, D r1, W r2, Y|W|D|D, Y|W",Cancelled(Order Timed)
+TSLA,Short,40 Min,21.0,435.7,436.7,11,0,0,436.45,Q|W|W|pdh|pdl|D|D|D|D|D|D|D,0,21,0,0,2026-01-29,12:19:00,,,,,False,417.33140000000003,12,"pdo, pdc, pdh, pdl, D pp1, D r1, D s1, W pp1, Q|W|W|pdh|pdl|D|D|D|D|D|D|D, Q|W|W|D|D|D|D|D|D|D, Q|W|W|D|D|D|D|D|D, Q|W|W",Cancelled(Order Timed)
+AMD,Short,40 Min,21.0,249.99,250.99,19,0,0,250.74,M|W|pdl|D|D|D|D|D,0,54,0,0,2026-01-29,12:21:00,,,,,False,243.31500000000003,4,"pdl, D s1, W pp1, M|W|pdl|D|D|D|D|D",Cancelled(Order Timed)
+GOOGL,Short,40 Min,24.0,336.98,337.98,14,0,0,337.73,Q|M|W|W|W|D|D|D|D|D|D|D,0,42,0,0,2026-01-29,12:24:00,,,,,False,328.9175,13,"pdh, D r1, D r2, D r3, D r4, W r2, M r2, Q|M|W|W|W|D|D|D|D|D|D|D, Q|M|W|W|W|D|D|D|D, Q|M|M|W|W|W|D|D, Q|M|M|W|W|W|D, Q|M|M|W|W, Q|M",Cancelled(Order Timed)
